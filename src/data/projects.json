@@ -1,0 +1,30 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Research on Health Effects of N-Nitrosamine",
+    "image": "/tiles/project-1.jpg",
+    "summary": "Investigating the presence, exposure pathways, and public health implications of N-nitrosamine compounds in drinking water systems.",
+    "body": "This project examines the formation of N-nitrosamine compounds during water treatment and their downstream health effects on exposed populations. Field sampling, laboratory analysis, and epidemiological review are combined to assess risk and inform treatment guidelines."
+  },
+  {
+    "id": "proj-2",
+    "title": "Model and Predict Disease",
+    "image": "/tiles/project-2.jpg",
+    "summary": "Building predictive models linking environmental exposure data to disease incidence.",
+    "body": "Using statistical and machine learning approaches, this project develops models that predict disease outbreak risk from environmental and water quality indicators, supporting early public health intervention."
+  },
+  {
+    "id": "proj-3",
+    "title": "Create and Deploy Sensors",
+    "image": "/tiles/project-3.jpg",
+    "summary": "Designing low-cost environmental sensors for field deployment across monitoring sites.",
+    "body": "This project develops and field-tests low-cost sensor units for continuous water quality and environmental monitoring, with a focus on durability and affordability for deployment across distributed sites."
+  },
+  {
+    "id": "proj-4",
+    "title": "Measure and Destroy Hazards",
+    "image": "/tiles/project-4.jpg",
+    "summary": "Developing measurement and remediation techniques for environmental hazards.",
+    "body": "Combining field measurement techniques with remediation technology development, this project targets the detection and safe elimination of environmental contaminants of concern."
+  }
+]

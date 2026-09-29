@@ -1,0 +1,20 @@
+{
+  "siteName": "Rahman Research Group",
+  "shortName": "RRG",
+  "department": "Department of Civil Engineering",
+  "institution": "Bangladesh University of Engineering and Technology (BUET)",
+  "nav": [
+    { "label": "Home", "path": "/" },
+    { "label": "Research", "path": "/research" },
+    { "label": "Projects", "path": "/projects" },
+    { "label": "Publications", "path": "/publications" },
+    { "label": "Cores", "path": "/cores" }
+  ],
+  "contact": {
+    "name": "Dr. Md. Mafizur Rahman",
+    "title": "Professor",
+    "department": "Department of Civil Engineering",
+    "institution": "Bangladesh University of Engineering and Technology (BUET)",
+    "email": "mrahman@ce.buet.ac.bd"
+  }
+}

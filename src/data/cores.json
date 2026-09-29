@@ -1,0 +1,30 @@
+[
+  {
+    "id": "core-1",
+    "title": "Administrative Core",
+    "image": "/tiles/core-1.jpg",
+    "summary": "Oversees project coordination, budgeting, and reporting across the research group.",
+    "body": "The Administrative Core manages the day-to-day operations of the research group, including grant administration, scheduling, and communication with partner institutions."
+  },
+  {
+    "id": "core-2",
+    "title": "Data Management and Analysis Core",
+    "image": "/tiles/core-2.jpg",
+    "summary": "Handles data collection standards, storage, and statistical analysis across projects.",
+    "body": "This core maintains data quality standards, manages the group's data repositories, and provides statistical and GIS analysis support across all active research projects."
+  },
+  {
+    "id": "core-3",
+    "title": "Community Engagement Core",
+    "image": "/tiles/core-3.jpg",
+    "summary": "Coordinates outreach and engagement with communities affected by the group's research.",
+    "body": "The Community Engagement Core builds relationships with local communities, conducts participatory research activities, and ensures findings are communicated back to stakeholders."
+  },
+  {
+    "id": "core-4",
+    "title": "Research Experience and Training Coordination Core",
+    "image": "/tiles/core-4.jpg",
+    "summary": "Coordinates training and research experience opportunities for students and staff.",
+    "body": "This core designs and coordinates training programs, mentorship opportunities, and research experiences for graduate and undergraduate students in the group."
+  }
+]
