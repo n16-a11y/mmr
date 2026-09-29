@@ -28,13 +28,13 @@
   "cores": [
     {
       "id": "core-1",
-      "title": "Administrative Core",
+      "title": "Infrastructural Occupational Health and Safety",
       "image": "/tiles/core-1.jpg",
       "linkTo": "/cores"
     },
     {
       "id": "core-2",
-      "title": "Data Management and Analysis Core",
+      "title": "Environmental & Social Safeguards Management",
       "image": "/tiles/core-2.jpg",
       "linkTo": "/cores"
     },
