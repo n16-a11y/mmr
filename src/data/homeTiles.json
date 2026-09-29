@@ -50,5 +50,17 @@
       "image": "/tiles/core-4.jpg",
       "linkTo": "/cores"
     }
+    {
+      "id": "core-5",
+      "title": "Remote Sensing and Digital Twin",
+      "image": "/tiles/core-2.jpg",
+      "linkTo": "/cores"
+    },
+    {
+      "id": "core-6",
+      "title": "Strategic Execution & Program Leadership",
+      "image": "/tiles/core-2.jpg",
+      "linkTo": "/cores"
+    }
   ]
 }
